@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I'm Muhammad Ehsan – a Senior Data Engineering Consultant with deep experience in:
+✅ Azure Cloud (ADF, ADLS, Synapse)
+✅ Databricks (Delta Lake, PySpark)
+✅ Data Governance & CI/CD in enterprise & public sector
+📊 Explore my latest project: [Canada Open Data Pipeline](https://github.com/ehsanullah/canada-open-data-pipeline)
+
 
 <!--
 **ehsan4u/ehsan4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
