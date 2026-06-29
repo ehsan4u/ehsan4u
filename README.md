@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 > 20+ years delivering enterprise-scale data platforms, AI/ML solutions, and digital transformation programmes across aviation, manufacturing, government, and telecommunications.
 >
-> 📧 ehsan4u@gmail.com · 📞 +1 571 554 4040 · [LinkedIn](https://linkedin.com/in/ehsanullah)
+> 📧 ehsan4u@gmail.com · 📞 +1 571 554 4040 | +1 647 525 8520· [LinkedIn](https://linkedin.com/in/ehsanullah)
 
 ---
 
