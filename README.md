@@ -1,9 +1,14 @@
-👋 Hi, I'm Muhammad Ehsan – a Senior Data Engineering Consultant with deep experience in:
-✅ Azure Cloud (ADF, ADLS, Synapse)
+👋 Hi, I'm Muhammad Ehsan – a Senior Data Engineering | Certified Six Sigma Green Belt | PMP | M.Sc. M Eng. | Consultant with deep experience in:
+✅ Azure Cloud (SQL, ADF, ADLS, Synapse)
 ✅ Databricks (Delta Lake, PySpark)
 ✅ Data Governance & CI/CD in enterprise & public sector
 📊 Explore my latest project: [Canada Open Data Pipeline](https://github.com/ehsanullah/canada-open-data-pipeline)
 
+Philosophy: I don't start with the technology. I start with the business problem, the user, and the measurable outcome.
+
+I understand what it takes to move AI from an interesting proof of concept to a governed, scalable product that people can trust and use.
+
+I understand that in aviation, data quality and decision speed are not just technical metrics. They can influence safety, reliability, customer experience, and profitability.
 
 LEADERSHIP
 Cross-functional team management, agile project delivery, and stakeholder collaboration
