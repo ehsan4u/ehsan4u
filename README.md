@@ -1,10 +1,10 @@
-👋 Hi, I'm Muhammad Ehsan – a Senior Data Engineering | Certified Six Sigma Green Belt | PMP | M.Sc. M Eng. | Consultant with deep experience in:
+👋 Hi, I'm Muhammad Ehsan – a Senior Data Engineering | Certified <B>Six Sigma Green Belt</B> | PMP | M.Sc. M Eng. | Consultant with deep experience in:
 ✅ Azure Cloud (SQL, ADF, ADLS, Synapse)
 ✅ Databricks (Delta Lake, PySpark)
 ✅ Data Governance & CI/CD in enterprise & public sector
 📊 Explore my latest project: [Canada Open Data Pipeline](https://github.com/ehsanullah/canada-open-data-pipeline)
 
-Philosophy: I don't start with the technology. I start with the business problem, the user, and the measurable outcome.
+Philosophy: I don't start with the <B>technology</B>. I start with the <B>business problem</B>, the user, and the <B>measurable</B> outcome.
 
 I understand what it takes to move AI from an interesting proof of concept to a governed, scalable product that people can trust and use.
 
